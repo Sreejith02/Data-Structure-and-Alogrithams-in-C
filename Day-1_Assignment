@@ -1,0 +1,14 @@
+Question 1 :
+
+What is the time complexity T(n) for the following code snippet?
+a = 1
+b = 1
+while(b <= n)
+{
+a += 1
+b += 1
+cout<<"Hi";
+}
+
+Answer :
+
