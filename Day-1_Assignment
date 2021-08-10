@@ -13,9 +13,8 @@ cout<<"Hi";
 }
 
 Answer :
-
-
 T(n)=0(n)
+
 
 Question-2 :
 
@@ -31,5 +30,7 @@ cout<<n;
 }
 
 Answer :
-
 321
+
+
+.
